@@ -3,6 +3,8 @@
 Cal-C is a stylish, retro-inspired calculator built using **HTML**, **CSS**, and **JavaScript**.  
 It performs essential arithmetic operations with a clean design and helpful error handling.
 
+📌 Note: This project is the second task from Skilcraft Technology’s Web Development Internship Program.
+
 ## Features
 - Supports addition, subtraction, multiplication, and division
 - Division-by-zero protection with error display
