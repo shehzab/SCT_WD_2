@@ -12,7 +12,3 @@ It performs essential arithmetic operations with a clean design and helpful erro
 - Keyboard input support for numbers, operators, Enter, Backspace, and Escape
 
   
-## License
-This project is free to use and modify.
-
-
